@@ -126,6 +126,16 @@ body {
 
 }
 
+.section3{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 100px;
+    background-color: #fff;
+    padding-top: 50px;
+
+}
+
 
 .viewall{
     display: flex;
@@ -167,6 +177,19 @@ body {
 
 .sous-section3{
     display: flex;
+    justify-content: space-around;
     align-items: center;
-    justify-content: space-between;
+    gap: 15px;
+
 }
+
+.container4{
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    
+}
+
+
+
